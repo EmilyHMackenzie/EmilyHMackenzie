@@ -9,4 +9,5 @@ Here are some ideas to get you started:
 - 💬 I live in London
 - 📫 How to reach me: Email
 - 😄 Pronouns: She/Her
+- I love coffee
 
