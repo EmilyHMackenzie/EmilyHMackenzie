@@ -5,9 +5,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Readme files
 - 🌱 I’m currently learning Health Data Science
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with Git and Github
-- 💬 Ask me about ...
+- 💬 I live in London
 - 📫 How to reach me: Email
 - 😄 Pronouns: She/Her
 
